@@ -6,3 +6,6 @@ Bright website landing page.
 - Bootstrap
 - Animation
 
+![](https://raw.githubusercontent.com/YuliyaNY/Tinyone/master/img/tinyone.jpg)
+:point_right: [Live Demo](https://yuliyany.github.io/Tinyone/)
+
